@@ -59,6 +59,9 @@ git version 2.7.0.windows.1
 
 2. Copy below the output from `git config --global --list`:
 
+user.name=Vincent Tam
+user.email=vincenttam3000@yahoo.com
+
 
 You also need to set up your public/private keypair with GitHub. Once you’ve
 done that, do the following:
