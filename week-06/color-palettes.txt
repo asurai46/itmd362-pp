@@ -28,8 +28,9 @@ the leafy vegetables that our parents made us eat so we can get big and strong, 
 
 * A complementary palette for a banking website.
 
-Filename:
-Explanation of your color choices:
+Filename: complementary.png
+Explanation of your color choices: I went with a lighter/sky blue color for a banking website because it is easy to look at.
+To go with this would be the color white for the background and they grey could be for the nav bar.
 
 * A triadic palette for a website that offers games for children.
 
