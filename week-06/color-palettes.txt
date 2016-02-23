@@ -34,5 +34,7 @@ To go with this would be the color white for the background and they grey could 
 
 * A triadic palette for a website that offers games for children.
 
-Filename:
-Explanation of your color choices:
+Filename: triadic.png
+Explanation of your color choices: For children games, I think of their happiness playing games rather than doing homework.
+With that in mind, I went with happy colors like red, yellow, and blue. They lighter shade of blue is easier to look at and combined with
+red and yellow makes the page more colorful.
