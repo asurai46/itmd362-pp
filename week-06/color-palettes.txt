@@ -22,8 +22,9 @@ gaming laptops that are black with led backlight for the keyboard area and the c
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename:
-Explanation of your color choices:
+Filename: shaded.png
+Explanation of your color choices: When I think of natural and organic foods, the color green comes to mind. This is because green is the color of
+the leafy vegetables that our parents made us eat so we can get big and strong, as well as being healthy.
 
 * A complementary palette for a banking website.
 
